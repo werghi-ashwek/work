@@ -1,0 +1,29 @@
+.butt{
+    background-color: rgb(85, 85, 219);
+    border-color: black;
+    color:black;
+    padding: 10px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    position: absolute;
+    left: 100px;
+    bottom: 12px;
+    border-radius: 4px;
+}
+
+.txts{
+text-align: center;
+}
+.parag{
+ text-align: center;
+}
+
+.total{
+display: flex;
+justify-content: center;
+padding-top:100px;
+padding-left: 80px;
+padding-bottom: 50px;
+
+}

@@ -1,0 +1,19 @@
+.wlc{
+ text-align: center;
+ padding : 70px;
+ display: flex;
+ justify-content: center;
+ background-color: lightgrey;
+ padding-top:100px;
+ 
+ margin-bottom: 1px;
+ margin-right: 200px;
+ margin-left: 200px;
+ 
+
+    
+}
+
+.txt{
+    text-align:center;
+}

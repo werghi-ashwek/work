@@ -1,0 +1,15 @@
+.welc{
+    display: grid;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgba(166, 204, 204, 0.568);
+    padding-top: 30px;
+    width: 120%;
+    height: 200px;
+    
+    
+}
+
+.title{
+    text-align: center;
+}
